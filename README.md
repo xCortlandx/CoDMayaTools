@@ -1,4 +1,4 @@
-Call of Duty Maya Tools supports exporting models, animations, and xcams from Maya. The tool allows modders to export existing assets from other games or custom assets into a Call of Duty standard file format. The plugin includes additional features such as exporting cosmetic joints and Ray's Anim Toolkit for camera animations.
+Call of Duty Maya Tools supports exporting models, animations, xcams from Maya. The tool allows modders to export existing assets from other games or custom assets into a Call of Duty standard file format. The plugin includes additional features such as exporting cosmetic joints and Ray's Anim Toolkit for camera animations.
 
 Exported Files
 Models export as .xmodel_export

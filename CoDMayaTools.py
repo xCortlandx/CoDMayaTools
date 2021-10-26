@@ -2610,7 +2610,7 @@ def ReadNotetracks(windowID):
     notetracks = __get_notetracks__()
     # Add notetrack type prefix automatically
     write_note_type = QueryToggableOption('PrefixNoteType')
-    for note, frames in notetracks.iteritems():
+    for note, frames in notetracks.items():
         # Ignore end/loop_end
         if note == "end" or note == "loop_end":
             continue
